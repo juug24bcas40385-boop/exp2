@@ -1,4 +1,4 @@
-package com.example.jayanthkrishna;
+package com.example.exp2;
 
 import android.os.Bundle;
 
